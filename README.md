@@ -28,7 +28,31 @@ The following Power BI and SQL features/functions were incorporated:
 - Quick Measures
 
 ## Visualized Solution
-1. Which Category is Best Selling and Most Profitable?
-:-----------------------------------------------------: |
+1. **Which Category is Best Selling and Most Profitable?**
+
+![](BestSelling&MostProfitable.png)
+
+2. **What are the Best Selling and Most Profitable Sub-Category?**
+
+![](Top5BestSelling.png)
+
+3. **Which is the Top Selling Sub-Category?**
+
+![](TopSellingSub-Cat.png)
+
+4. **Which Customer Segment is Most Profitable?**
+
+![](ProfitsBySegment.png)
+
+5. **Which is the Preferred Ship Mode?**
+
+![](PreferredShipmode.png)
 
 
+6. **Which Region is the Most Profitable?**
+
+![](MostProfitableByRegion.png)
+
+7. **Which City has the Highest Number of Sales?**
+
+![](Top10citiesbysales.png)
