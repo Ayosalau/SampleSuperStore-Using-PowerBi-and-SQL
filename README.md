@@ -4,10 +4,10 @@
 
 ## Introduction
 
-This is a Power BI and SQL project on sales analysis of an imagenary store called **Nifest Supermart**
-The project is about driving insights to answer crucial questions and help the store make data driven decisions. 
+This is a Power BI and SQL project on sales analysis of an imaginary store called **Nifest Supermart**
+The project is about driving insights to answer crucial questions and help the store make data-driven decisions. 
 
-**_Disclaimer_**: All the dataset do not represent the data of any real company, institution or country. 
+**_Disclaimer_**: All the datasets do not represent the data of any real company, institution, or country. 
 
 ## Problem Statement 
 1. Which Category is Best Selling and Most Profitable?
@@ -18,13 +18,13 @@ The project is about driving insights to answer crucial questions and help the s
 6. Which Region is the Most Profitable?
 7. Which City has the Highest Number of Sales?
 
-## Skills and Concept Demonstrated
+## Skills and Concepts Demonstrated
 
 The following Power BI and SQL features/functions were incorporated: 
-- Round, 
-- Group By, 
-- Order By, 
-- Filters, 
+- Round
+- Group By
+- Order By 
+- Filters 
 - Quick Measures
 
 ## Visualized Solution
